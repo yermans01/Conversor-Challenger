@@ -1,0 +1,11 @@
+package conMonedas;
+import javax.swing.JOptionPane;
+
+public class conMonedas {
+
+	public void convertirPesoclDolar(double valor) {
+		double monedaDolar = valor / 0.0013;
+		monedaDolar = (double) Math.round(monedaDolar *100d)/100;
+        JOptionPane.showMessageDialog(null, "Tienes $ " +monedaDolar+ " Dolares");
+	}
+}

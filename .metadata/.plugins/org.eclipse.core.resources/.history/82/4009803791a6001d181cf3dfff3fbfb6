@@ -1,0 +1,10 @@
+package inicio;
+//libreria para mostrar una ventana.
+import javax.swing.JOptionPane;
+//se importa funcion de monedas y temperatura.
+import conMonedas.funcion;
+import conTemperatura.funcionTemp;
+
+public class inicio {
+
+}

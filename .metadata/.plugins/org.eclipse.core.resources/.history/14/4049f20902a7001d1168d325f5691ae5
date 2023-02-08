@@ -1,0 +1,7 @@
+package conTemperatura;
+
+import javax.swing.JOptionPane;
+
+public class functionTemp {
+
+}

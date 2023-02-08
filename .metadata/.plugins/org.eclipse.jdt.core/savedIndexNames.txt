@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/home/german/Escritorio/Oracle/Challenger/05-ConversorJava/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+2464200519.index
+801588673.index
